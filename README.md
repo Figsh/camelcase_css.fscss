@@ -207,7 +207,7 @@ SVG & Graphics
 Complete Properties List
 
 <details>
-<summary>Click to view all supported properties (500+)</summary>
+<summary>Click to view all supported properties (300+)</summary>
 
 ```javascript
 backgroundColor
