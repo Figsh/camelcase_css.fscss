@@ -1,7 +1,7 @@
 {
   "name": "camelcase_css",
   "version": "1.0.0",
-  "description": "FSCSS library for writing CSS properties in camelCase notation, automatically converting to standard kebab-case equivalents. Covers 500+ CSS properties.",
+  "description": "FSCSS library for writing CSS properties in camelCase notation, automatically converting to standard kebab-case equivalents. Covers 300+ CSS properties.",
   "extension": "fscss",
   "fscss_version": "^1.1.16",
   "blocked_methods": [],
