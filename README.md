@@ -8,7 +8,7 @@ This library provides a simple and elegant way to write CSS in FSCSS using camel
 
 ## Features
 
-- **500+ CSS Properties** - Comprehensive coverage of CSS properties
+- **300+ CSS Properties** - Comprehensive coverage of CSS properties
 - **Automatic Conversion** - camelCase to kebab-case conversion
 - **Easy Integration** - Simple import and usage
 - **Modern CSS Support** - Includes Grid, Flexbox, Container Queries, and more
